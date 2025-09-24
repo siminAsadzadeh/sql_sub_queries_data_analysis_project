@@ -1,4 +1,4 @@
-# sql_sub_querries_project
+# sql_sub_querries_data_analysis_ project
 
 ### Objective
 
