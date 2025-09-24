@@ -1,4 +1,4 @@
--- q1_create database schema 
+-- q1_create the database schema 
 
 -- employees
 CREATE TABLE employees (
