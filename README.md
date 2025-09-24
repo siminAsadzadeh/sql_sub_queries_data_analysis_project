@@ -37,7 +37,7 @@ Each query is a small data analysis task, helping you learn how to extract insig
 ### Schema Visualization  
 Mermaid ER diagrams included for clear data structure mapping.  
 
-erDiagram
+``` erDiagram
     employees {
         CHAR emp_id PK
         VARCHAR f_name
@@ -81,4 +81,4 @@ erDiagram
     employees ||--o{ job_history : "has history"
     employees }o--o{ departments : "belongs to"
     employees }o--|| jobs : "assigned"
-    departments }o--o{ locations : "based in"
+    departments }o--o{ locations : "based in" ```
